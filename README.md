@@ -26,7 +26,7 @@ I have been using the .pem file to connect to SSH,so I could not understand why 
 
    * ```shell
      #Run once every 5 minutes
-     5 * * * * YOUPATH/check.sh
+     */5 * * * * YOUPATH/check.sh
      ```
 
 3. Warn me by email.
